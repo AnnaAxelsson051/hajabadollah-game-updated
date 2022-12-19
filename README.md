@@ -4,8 +4,7 @@
 
 </br>
 
-![Screenshot 2022-12-19 at 01 12 20](https://user-images.githubusercontent.com/103879144/208326924-5f1232df-e2e2-434b-b7bf-c789d48d9b31.png)
-
+![Screenshot 2022-12-19 at 01 15 13](https://user-images.githubusercontent.com/103879144/208327044-fa5c5633-6267-44ff-ab47-0f41401a5463.png)
 
 </br>
 
