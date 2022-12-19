@@ -4,15 +4,7 @@
 
 </br>
 
-![Screenshot 2022-12-19 at 01 35 26](https://user-images.githubusercontent.com/103879144/208327991-58b56b52-00f9-4e25-9b63-f2a36eb26a80.png)
-
-</br>
-
 ![Screenshot 2022-12-19 at 01 36 01](https://user-images.githubusercontent.com/103879144/208327976-739e51fd-f9d2-4f5f-bead-c9e851f0cfd3.png)
-
-</br>
-
-![Screenshot 2022-12-19 at 01 15 13](https://user-images.githubusercontent.com/103879144/208327044-fa5c5633-6267-44ff-ab47-0f41401a5463.png)
 
 </br>
 
@@ -22,3 +14,4 @@
 
 ![Screenshot 2022-12-19 at 01 09 01](https://user-images.githubusercontent.com/103879144/208326807-44d0b743-edf9-4214-996c-9f8810397a2f.png)
 
+Created by Anna Axelsson
